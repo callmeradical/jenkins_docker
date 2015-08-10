@@ -1,0 +1,8 @@
+job-dsl:1.36
+promoted-builds:2.21
+credentials:1.22
+scm-api:0.2
+mailer:1.15
+ssh-credentials:1.11
+git:2.4.0
+git-client:1.18.0
