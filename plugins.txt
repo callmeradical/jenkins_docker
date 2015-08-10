@@ -6,3 +6,4 @@ mailer:1.15
 ssh-credentials:1.11
 git:2.4.0
 git-client:1.18.0
+startup-trigger-plugin:2.4
